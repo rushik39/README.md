@@ -2,7 +2,7 @@
 
 ## Profile
 
-| ORDER | THING-TO-LEARn |
+| ORDER | THING-TO-LEARN |
 |-----:|---------------|
 |     1|       Python        |
 |     2|       Pandas        |
